@@ -1,4 +1,5 @@
 # Java-standard-edition-2020 
+## Este repositorio es una copia del repositorio del curso de FullStack Stander + BEDU del modulo, a continuación el siguiente enlace llevará al repositorio orginal https://github.com/beduExpert/Java-SE-I-Santander-2022/tree/main
 ## Módulo: Java Standard Edition
 
 ### OBJETIVO 
